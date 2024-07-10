@@ -63,8 +63,8 @@ services:
     # the container, which is where the webapp lives. This is a
     # convenient way to develop in place without having to rebuild
     # the image each time you make a change.
-    volumes:
-      - .:/app
+    # volumes:
+    #  - .:/app
 
   redis:
     image: redis:bookworm@sha256:e422889e156ebea83856b6ff973bfe0c86bce867d80def228044eeecf925592b
