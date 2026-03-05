@@ -1,13 +1,10 @@
-# Onetime Secret - Docker Compose Configuration (WIP)
+# Onetime Secret - Docker Compose Configuration (Archived)
 
-This is the docker-compose configuration for Onetime Secret. It uses the official Docker image for Onetime Secret.
-
-> [!WARNING]
+> [!IMPORTANT]
 >
-> This repository is a work in progress. We're in the process of migrating the configuration from the main repo. Excuse any bumps along the way.
-
-
-## Usage
-
-1. Clone this repository
-2. ...
+> **This repository has been archived.** The Docker configuration now lives in the main repository:
+>
+> - **Dockerfile**: [`onetimesecret/onetimesecret/Dockerfile`](https://github.com/onetimesecret/onetimesecret/blob/main/Dockerfile)
+> - **Docker directory**: [`onetimesecret/onetimesecret/docker/`](https://github.com/onetimesecret/onetimesecret/tree/main/docker)
+>
+> Please refer to [onetimesecret/onetimesecret](https://github.com/onetimesecret/onetimesecret) for the latest Docker setup and configuration.
